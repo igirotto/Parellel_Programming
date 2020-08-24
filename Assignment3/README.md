@@ -1,4 +1,2 @@
 # Assignment 3
-The aim of this assignment is to solve two exercises concerning MPI program-ming.  
-The first of the two exercises requires to implement a cyclic sum betweenprocessors.  
-The processors should communicate in a ring-like fashion.  
+This analysis aims to implement an algorithm that computes the approximation of π in a parallel fashion making use of the MPI interface. Moreover, a compar-ison with the openMP implementation discusses in the previous exercises canbe found.
