@@ -1,2 +1,5 @@
-# Parellel_Programming
-Parellel Programming course DSSC 
+# Parellel Programming
+
+Assignments of the Parallel Programming course
+
+
